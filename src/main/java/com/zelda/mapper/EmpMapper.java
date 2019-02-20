@@ -18,7 +18,7 @@ import java.util.Map;
 public interface EmpMapper {
 
     /**
-     * 查询所有emp
+     * 查询所有
      * @return
      */
     @Select("select * from emp")
